@@ -1,0 +1,257 @@
+/* Reset */
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.reset {
+  margin: 0px;
+  padding: 0px;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+/* ----------------------------------Buttons--------------------------------------- */
+.link-button {
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+
+/* ----------------------------------General--------------------------------------- */
+
+.border-radius-50p {
+  border-radius: 50%;
+}
+
+.black-hover:hover {
+  color: black;
+  font-size: 28px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* -----------------------------------Colors------------------------------------ */
+.c-white {
+  color: white;
+}
+
+.c-black {
+  color: black;
+}
+
+/* -----------------------------------Background Colors------------------------------------ */
+
+.navbar-bg {
+  background-color: rgb(28, 40, 52);
+}
+
+.bg-primary_ {
+  background-color: rgba(33, 150, 243, 1);
+}
+
+.bg-black {
+  background-color: black;
+}
+
+/* -------------------------------Size---------------------------------------- */
+
+.height-max-content {
+  height: max-content;
+}
+
+/* -------------------------------Font Size---------------------------------------- */
+
+.font-normal {
+  font-size: 18px;
+}
+
+.font-1 {
+  font-size: 1rem;
+}
+
+.font-2 {
+  font-size: 1.8rem;
+}
+
+.font-3 {
+  font-size: 2rem;
+}
+
+.font-28 {
+  font-size: 28px;
+}
+.font-22 {
+  font-size: 22px;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.font-2rem {
+  font-size: 2rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-italic {
+  font-style: italic;
+}
+
+/* ----------------------------Margin Padding----------------------------------- */
+
+.ml-1 {
+  margin-left: 1rem;
+}
+
+.ml-2 {
+  margin-left: 2rem;
+}
+
+.ml-3 {
+  margin-left: 3rem;
+}
+
+.ml-4 {
+  margin-left: 4rem;
+}
+
+.ml-5 {
+  margin-left: 5rem;
+}
+
+.mr-1 {
+  margin-right: 1rem;
+}
+
+.mr-2 {
+  margin-right: 2rem;
+}
+
+.mr-3 {
+  margin-right: 3rem;
+}
+
+.mr-4 {
+  margin-right: 4rem;
+}
+
+.mr-5 {
+  margin-right: 5rem;
+}
+
+.pl-1 {
+  padding-left: 1rem;
+}
+.pl-2 {
+  padding-left: 2rem;
+}
+.pl-3 {
+  padding-left: 3rem;
+}
+.pl-5 {
+  padding-left: 5rem;
+}
+
+.pr-5 {
+  padding-right: 5rem;
+}
+
+/* -----------------------------------Text------------------------------------ */
+.text-deco-none {
+  text-decoration: none;
+}
+
+.text-overflow-ellipsis {
+  text-overflow: ellipsis;
+}
+
+/* -------------------------------Size---------------------------------------- */
+.height-70vh {
+  height: 70vh;
+}
+
+.height-80vh {
+  height: 80vh;
+}
+
+.height-100vh {
+  height: 100vh;
+}
+
+.width-min-content {
+  width: min-content;
+}
+
+.height90vh {
+  height: 90vh;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.height60 {
+  height: 60px;
+}
+
+.w30p {
+  width: 30%;
+}
+
+.w50p {
+  width: 50%;
+}
+
+.w70p {
+  width: 70%;
+}
+
+.w80p {
+  width: 80%;
+}
+
+.w90p {
+  width: 90%;
+}
+
+.w98p {
+  width: 98%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+/* -------------------------------Styles---------------------------------------- */
+/* .link-style-none {
+  text-decoration: none;
+  color: white;
+} list-unstyled*/
+
+/* ------------------------------Images-------------------------------------- */
+.background-image {
+  background-image: url("../assets/hero_background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ------------------------------Display-------------------------------------- */
+.d-inline-box {
+  display: -webkit-inline-box;
+}
+
+.justify-content-sb {
+  justify-content: space-between;
+}
